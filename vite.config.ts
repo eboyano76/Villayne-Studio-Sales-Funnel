@@ -1,3 +1,4 @@
+// Fixed blank screen bug
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 

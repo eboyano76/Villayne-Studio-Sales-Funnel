@@ -234,7 +234,7 @@ function App() {
 
       {/* 7. Copyright Footer */}
       <footer className="py-8 text-center text-gray-600 text-sm">
-        Copyright 2025
+        Copyright 2025-2026
       </footer>
 
       {/* 8. Sticky Footer */}
